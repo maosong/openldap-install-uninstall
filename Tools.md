@@ -4,7 +4,7 @@
 
 ### phpLPADadmin 🌞推荐
 
-老牌LPAD管理工具，界面像是回到了90年代，不过功能齐全免去手写代码的麻烦。
+老牌LPAD管理工具，界面像是回到了90年代，不过功能齐全免去手写代码的麻烦。也是我正在使用的管理工具。
 
 * [Github地址](https://github.com/leenooks/phpLDAPadmin)
 
@@ -101,6 +101,7 @@ server {
 * [下载地址](https://www.ldapsoft.com/ldapbrowserfree.html)
 
 以下是`LDAPSoft`公司，各产品线的注册码：
+⚠️ 注册码来自网络，且仅供学习OpenLDAP使用，请在`LDAPSoft`规定的试用期内购买正版软件。
 
 ```json
 // LDAP Admin Tool(Professional Edition)
